@@ -1,0 +1,23 @@
+.messages-box {
+	border:solid 1px gray;
+
+}
+.message-list {
+	list-style: none;	
+}
+.message-list>li {
+	padding: 5px;
+}
+.message-list>li:hover {
+	background-color: whitesmoke;
+};
+
+.message-box {
+	height:200px;
+}
+
+.text-area {
+	resize: none;
+	width: 100%;
+	height: 100px;
+}

@@ -1,0 +1,11 @@
+{
+	"app":{
+		"port": 3001
+	},
+	"db":{
+		"redis":{
+			"url":"pub-redis-15626.us-east-1-2.1.ec2.garantiadata.com",
+			"port": 15626
+		}
+	}
+}
